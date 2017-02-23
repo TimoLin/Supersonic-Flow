@@ -14,5 +14,5 @@ PS：在linux下可能无法运行，请在windows下运行
 
 PPS：在linux下可直接修改编译fortran程序
 
-     命令$ gfortran SuperSonic.f -o supersonic
+     $ gfortran SuperSonic.f -o supersonic
 Ref:Zucrow M J, Hoffman J D. Gas dynamics[J]. New York: Wiley, 1976, 1976.
